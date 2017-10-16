@@ -1,0 +1,6 @@
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 3\LAB3\LAB3\bin\Debug\LAB3.exe.config
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 3\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 3\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 3\LAB3\LAB3\obj\Debug\LAB3.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 3\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\John\Desktop\The final battle of CSULB\CECS475\LAB 3\LAB3\LAB3\obj\Debug\LAB3.pdb
